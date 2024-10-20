@@ -1,0 +1,18 @@
+.thankyou{
+    font-size: 5rem;
+    font-weight: 50;
+
+}
+.thankyou-card{
+    background-color: rgb(92, 104, 111);
+    height: 100vh;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;   
+}
+.para{
+    color: rgb(52, 211, 52);
+    font-size: 4rem;
+    font-weight: 50;
+}

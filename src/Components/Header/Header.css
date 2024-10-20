@@ -1,0 +1,9 @@
+.header{
+    background-color: green;
+    color: #ffffff;
+    padding: 2px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-family: 'Roboto';
+}

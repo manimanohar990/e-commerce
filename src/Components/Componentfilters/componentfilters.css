@@ -1,0 +1,103 @@
+.filter_card{
+    background-color: #F0FFE5;
+    width: 304px;
+    height: 930px;
+    top: 719;
+    left: 64;
+    padding: 8px;
+}
+.filterdata{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-family: 'Roboto';
+    padding: 5px;
+    width: 15rem;
+}
+*{
+    font-family: 'Roboto';
+}
+.itemscontainer{
+    display: flex;
+    
+    
+}
+.products{
+    padding: 5px;
+    margin: 16px;
+}
+.sort{
+    background-color: green;
+    color: aliceblue;
+    height: 20px;
+}
+.img-width{
+    width: 200px;
+    height: 200px;
+
+}
+.view-item{
+    background-color: green;
+    color: white;
+    text-align: center;
+}
+.product-item{
+    width: 12.8rem;
+    border: 1px;
+    margin: 1rem;
+}
+.product-card{
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+.like{
+    display: flex;
+    justify-content: right;
+}
+.viewmorebtn{
+    background-color: green;
+    border-radius: 15px;
+    border: 0;
+    height: 40px;
+    color: #F0FFE5;
+    width: 150px;
+}
+.plant-details{
+    border: 1px solid gray;
+    padding: 5px;
+    
+    
+}
+.image{
+    border: 1px solid rgb(185, 212, 185);
+}
+.addcartbtn{
+    background-color: green;
+    border: 0;
+    border-radius: 5px;
+    height: 30px;
+    padding: 2px;
+    align-items: center;
+    color: white;
+    margin: 3px;
+    font-size: small;
+}
+.buynowbtn{
+    background-color: white;
+    font-size: small;
+    border: solid green;
+    border-radius: 5px;
+    height: 30px;
+    padding: 2px;
+    align-items: center;
+}
+.btn-card{
+    display: flex;
+    justify-content: space-between;
+    
+}
